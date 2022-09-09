@@ -1,0 +1,8 @@
+a = int(input("Enter a number "))
+b = int(input("Enter a another number "))
+print("The sum of the two numbers is",a+b)
+print("The difference between the two numbers is",a-b)
+print("The product of the number is",a*b)
+print("The quotient is",a/b)
+print("The answer for the int division is",a//b)
+print("The cube of the first number is",a**3)
